@@ -44,4 +44,4 @@ htmlcov/
 
 # Secrets
 *.env
-.env.*
+
