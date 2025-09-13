@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Virtual environments
+ll_env/
+venv/
+ENV/
+*.env
+*.venv
+.Python
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+media/
+staticfiles/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*~
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing
+.coverage
+*.cover
+.pytest_cache/
+htmlcov/
+
+# Secrets
+*.env
+.env.*
