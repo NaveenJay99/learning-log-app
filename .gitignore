@@ -44,4 +44,4 @@ htmlcov/
 
 # Secrets
 *.env
-
+db.sqlite3
